@@ -39,8 +39,7 @@ body {
 .message {
 	padding: 20px;
 	background-color: #eee;
-	min-width: 400px;
-	height: 75%;
+	/*min-width: 400px;*/
 	position: absolute;
 	left: 50%;
 	top: 50%;
